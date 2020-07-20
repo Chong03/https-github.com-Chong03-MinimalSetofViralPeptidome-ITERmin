@@ -16,7 +16,7 @@ ITERmin was developed to overcome as many of the issues of KA (referred to figur
 ## Quick Start
 As with any typical tool, an input file would be required to deliver the output, with user-defined parameters for optimal outcome. The input would be a file containing a set of non-redundant (nr) protein sequences in the FASTA format. Sequences containing the unknown residue, X, may be removed, if desired. Keeping them may result in a minimal set comprising of sequences with the unknown residue.
 
-Below we describe the algorithmic steps of the tool using a sample input file: 
+Below we describe the algorithmic steps of the tool: 
 
 #### Step 1 - Generation of a set of overlapping unique k-mers from the input sequences
 Use the sample non-redundant (nr) input file to generate a set of defined overlapping *k*-mers (e.g. 9-mers; other *k*-mers length can also be defined) from each of the sequences in the input file. Identical *k*-mers in the dataset are removed, resulting in a new file, containing only the unique *k*-mers. This step is carried out by employing the "I1_UniqueKmerGenerator" script.
