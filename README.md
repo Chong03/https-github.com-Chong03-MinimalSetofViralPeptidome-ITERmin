@@ -13,7 +13,8 @@ ITERmin consideration of the limitations of using the extant KA, three different
 <img src="Summary_ITERmin_RANKmin_UNIQmin.png" width="900" height="560">
 <img src="ProsCons_ITERmin_RANKmin_UNIQmin.png" width="900" height="560">
 
-RANKmin (https://github.com/ChongLC/MinimalSetofViralPeptidome-RANKmin); UNIQmin (https://github.com/ChongLC/MinimalSetofViralPeptidome-UNIQmin)
+RANKmin (https://github.com/ChongLC/MinimalSetofViralPeptidome-RANKmin); 
+UNIQmin (https://github.com/ChongLC/MinimalSetofViralPeptidome-UNIQmin)
 
 ---
 ## Quick Start
