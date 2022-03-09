@@ -10,8 +10,8 @@ Table of Contents
 ---
 ## Brief Description
 ITERmin consideration of the limitations of using the extant KA, three different tools were developed to overcome as many of them and to make the algorithm big-data ready. The three tools (ITERmin, RANKmin and UNIQmin) were a result of sequential effort in, first, overcoming the limitations in terms of optimising the minimal set and subsequently, in optimizing the run-time performance of the tools.min was developed to overcome as many of the issues of KA (referred to figure below) and to make the algorithm big-data ready. 
-<img src="Summary_ITERmin_RANKmin_UNIQmin.png" width="900" height="560">
-<img src="ProsCons_ITERmin_RANKmin_UNIQmin.png" width="900" height="560">
+![ITERmin_RANKmin_UNIQmin](https://user-images.githubusercontent.com/51225708/157502269-2a207c71-f45d-4109-b473-ea5fd88a2553.png)
+![ITERmin_RANKmin_UNIQmin_v2](https://user-images.githubusercontent.com/51225708/157503043-4f22f577-7e9f-4a73-85b0-432fc440d520.png)
 
 RANKmin (https://github.com/ChongLC/MinimalSetofViralPeptidome-RANKmin) 
 
